@@ -1,4 +1,4 @@
-a.animation1{
+.animation1{
   animation: orbz ease-in-out 3s;
   animation-iteration-count: infinite;
   transform-origin: 50% 50%;
